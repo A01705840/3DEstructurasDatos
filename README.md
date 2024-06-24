@@ -11,7 +11,8 @@ Lista enlazada | Lista enlazada | Pilas
 ----------
 Los modelos de pilas, consisten de tres piezas distintas. La piezas de head y tail, y las piezas de en medio de la pila. Al imprimir las piezas, le implementamos un 0.2 de tolerancia para que encajaran una con la otra.
 
-""" EXPLICAR COMO PONER LA TOLERANCIA EN FUSION 360 """
+""" EXPLICAR COMO PONER LA TOLERANCIA EN FUSION 360 """ 
+
 **Resultados:**
 
 
